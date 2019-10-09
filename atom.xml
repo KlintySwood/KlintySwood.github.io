@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ChaotiqueBlog</title>
+  <icon>https://KlintySwood.github.io//images/logo_CN.png</icon>
+  <subtitle>Le blog de Klinty</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://KlintySwood.github.io/"/>
+  <updated>2019-10-08T17:21:03.217Z</updated>
+  <id>https://KlintySwood.github.io/</id>
+  
+  <author>
+    <name>Klinty</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Inspiré par les vacances</title>
+    <link href="https://KlintySwood.github.io/2019/10/08/inspire-par-les-vacances/"/>
+    <id>https://KlintySwood.github.io/2019/10/08/inspire-par-les-vacances/</id>
+    <published>2019-10-08T16:01:20.000Z</published>
+    <updated>2019-10-08T17:21:03.217Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Yo les internets ! Je reviens aujourd’hui pour enfin poster un morceau qui m’a été inspiré par mes vacances bretonnes avec mes bros. Y a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Prod Musicale" scheme="https://KlintySwood.github.io/categories/Prod-Musicale/"/>
+    
+    
+      <category term="opz" scheme="https://KlintySwood.github.io/tags/opz/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Stick d&#39;arcade DIY</title>
+    <link href="https://KlintySwood.github.io/2019/10/08/arcade-stick-diy/"/>
+    <id>https://KlintySwood.github.io/2019/10/08/arcade-stick-diy/</id>
+    <published>2019-10-08T13:16:35.000Z</published>
+    <updated>2019-10-08T15:38:09.735Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;/images/stick_arcade_diy_01.jpg&quot; alt=&quot;Stick Arcade DIY&quot; title=&quot;Stick Arcade DIY&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Yo les internets ! Il y a déjà un
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Gaming" scheme="https://KlintySwood.github.io/categories/Gaming/"/>
+    
+    
+      <category term="arcade" scheme="https://KlintySwood.github.io/tags/arcade/"/>
+    
+      <category term="emulation" scheme="https://KlintySwood.github.io/tags/emulation/"/>
+    
+      <category term="diy" scheme="https://KlintySwood.github.io/tags/diy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Taeyeon - Begin Again</title>
+    <link href="https://KlintySwood.github.io/2019/10/07/taeyeon-begin-again/"/>
+    <id>https://KlintySwood.github.io/2019/10/07/taeyeon-begin-again/</id>
+    <published>2019-10-07T13:36:37.000Z</published>
+    <updated>2019-10-08T15:49:06.672Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;https://chaotiqueneut.re/blog/wp-content/uploads/2019/09/taeyeon_begin_again1-1024x650.jpg&quot; alt=&quot;Taeyeon&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="KPop" scheme="https://KlintySwood.github.io/categories/KPop/"/>
+    
+    
+      <category term="taeyeon" scheme="https://KlintySwood.github.io/tags/taeyeon/"/>
+    
+      <category term="korean tv" scheme="https://KlintySwood.github.io/tags/korean-tv/"/>
+    
+      <category term="snsd" scheme="https://KlintySwood.github.io/tags/snsd/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mes films marquants de 2016</title>
+    <link href="https://KlintySwood.github.io/2016/12/31/mes-films-marquants-2016/"/>
+    <id>https://KlintySwood.github.io/2016/12/31/mes-films-marquants-2016/</id>
+    <published>2016-12-31T18:21:58.000Z</published>
+    <updated>2019-10-09T08:19:50.484Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Un article pour me rappeler les films qui m’ont plu cette année.&lt;/p&gt;
+&lt;p&gt;Plus qu’un top c’est plutôt une liste des films sortis en 2016
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Misc" scheme="https://KlintySwood.github.io/categories/Misc/"/>
+    
+    
+      <category term="films" scheme="https://KlintySwood.github.io/tags/films/"/>
+    
+      <category term="cinéma" scheme="https://KlintySwood.github.io/tags/cinema/"/>
+    
+  </entry>
+  
+</feed>
