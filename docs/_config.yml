@@ -24,7 +24,7 @@ github_username:  KlyntySwood
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: hacker
 plugins:
   - jekyll-feed
 
